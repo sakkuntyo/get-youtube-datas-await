@@ -16,3 +16,6 @@ var spl = require('search-youtube-playlists')
 var playlists = spl('キーワード')
 ```
 
+## Docs
+
+https://developers.google.com/youtube/v3/docs/search/list
