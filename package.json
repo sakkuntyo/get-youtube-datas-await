@@ -1,6 +1,6 @@
 {
   "name": "search-youtube-playlists",
-  "description": "get a youtube video datas.",
+  "description": "get a youtube playlists.",
   "version": "1.1.0",
   "author": "Daisuke Sasaki <>",
   "bugs": {
