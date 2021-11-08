@@ -1,21 +1,17 @@
-# get-youtube-title
+# get-youtube-datas
 
-get the title of a youtube video in node.js or the browser.
+get the datas of a youtube video in node.js
 
 ## Install
 
 ```
-npm install get-youtube-title-await
+npm install get-youtube-datas-await
 ```
 
 ## Usage
 
 ```js
-var getYoutubeTitle = require('get-youtube-title')
+var getYoutube = require('get-youtube-datas-await')
 
-var title = getYoutubeTitle('ZjM8Wq5pQ2o')
+var datas = getYoutube('ZjM8Wq5pQ2o')
 ```
-
-## License
-
-[Apache-2.0](LICENSE.md)

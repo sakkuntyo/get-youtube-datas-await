@@ -1,18 +1,17 @@
 {
-  "name": "get-youtube-title-await",
-  "description": "get a youtube video title.",
-  "version": "1.1.5",
+  "name": "get-youtube-datas-await",
+  "description": "get a youtube video datas.",
+  "version": "1.1.0",
   "author": "Daisuke Sasaki <>",
   "bugs": {
-    "url": "https://github.com/sakkuntyo/get-youtube-title-await"
+    "url": "https://github.com/sakkuntyo/get-youtube-datas-await"
   },
   "devDependencies": {
     "standard": "^15.0.0",
     "tape": "^5.0.1"
   },
-  "homepage": "https://github.com/sakkuntyo/get-youtube-title-await",
+  "homepage": "https://github.com/sakkuntyo/get-youtube-datas-await",
   "keywords": [
-    "title",
     "video",
     "youtube"
   ],
@@ -21,7 +20,7 @@
   "browser": "browser.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sakkuntyo/get-youtube-title-await"
+    "url": "https://github.com/sakkuntyo/get-youtube-datas-await"
   },
   "scripts": {
     "test": "standard && tape test/*.js"
