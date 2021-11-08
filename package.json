@@ -1,16 +1,16 @@
 {
-  "name": "get-youtube-datas-await",
+  "name": "search-youtube-playlists",
   "description": "get a youtube video datas.",
   "version": "1.1.0",
   "author": "Daisuke Sasaki <>",
   "bugs": {
-    "url": "https://github.com/sakkuntyo/get-youtube-datas-await"
+    "url": "https://github.com/sakkuntyo/search-youtube-playlists"
   },
   "devDependencies": {
     "standard": "^15.0.0",
     "tape": "^5.0.1"
   },
-  "homepage": "https://github.com/sakkuntyo/get-youtube-datas-await",
+  "homepage": "https://github.com/sakkuntyo/search-youtube-playlists",
   "keywords": [
     "video",
     "youtube"
@@ -20,9 +20,12 @@
   "browser": "browser.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sakkuntyo/get-youtube-datas-await"
+    "url": "https://github.com/sakkuntyo/search-youtube-playlists"
   },
   "scripts": {
     "test": "standard && tape test/*.js"
+  },
+  "dependencies": {
+    "array-foreach-async": "^1.0.1"
   }
 }

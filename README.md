@@ -1,17 +1,18 @@
-# get-youtube-datas
+# search-youtube-playlists
 
-get the datas of a youtube video in node.js
+get the playlists of a youtube video in node.js
 
 ## Install
 
 ```
-npm install get-youtube-datas-await
+npm install search-youtube-playlists
 ```
 
 ## Usage
 
 ```js
-var getYoutube = require('get-youtube-datas-await')
+var spl = require('search-youtube-playlists')
 
-var datas = getYoutube('ZjM8Wq5pQ2o')
+var playlists = spl('キーワード')
 ```
+
